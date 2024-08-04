@@ -2,9 +2,9 @@
 ## Screenshots 📸
 
 <p align="center">
-  <img src="1.png" alt="Screenshot 1" width="200"/>
- 
-  <img src="3.png" alt="Screenshot 3" width="200"/>
+  <img src="1.png" alt="Screenshot 1" width="100%"/>
+ <br>
+  <img src="3.png" alt="Screenshot 3" width="100%"/>
 
 Description
 A demo websit that demonstrates html beautiful UI with complex webpage.
